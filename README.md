@@ -22,5 +22,8 @@
 |[a_b analysis_ sales funnel](https://github.com/Lavrova-Svetlana/-project_yandex_practicum/tree/master/a_b%20analysis_%20sales%20funnel)|Анализ воронки продаж, а также оценка результатов А/А/В 
 тестирования на основе данных использования мобильного приложения|
 |___________________________________|______________________________________________________________________________________________________________________________________________________________________|                                                                                                                                         
-|[demand_for_flight_airline](https://github.com/Lavrova-Svetlana/-project_yandex_practicum/tree/master/demand_for_flight_airline)|Исследование влияния семейного положения\n и количества детей клиента на факт возврата кредита\n в срок на основе статистики о платежеспособности клиентов|                                                                                                                                       
+|[demand_for_flight_airline](https://github.com/Lavrova-Svetlana/-project_yandex_practicum/tree/master/demand_for_flight_airline)|Исследование влияния семейного положения
+ и количества детей клиента 
+ на факт возврата кредита
+ в срок на основе статистики о платежеспособности клиентов|                                                                                                                                       
 
