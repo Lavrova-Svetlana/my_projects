@@ -19,11 +19,11 @@
 
 ***Выводы:***
   1. Предполагаемые шаги в воронке:
-    А: MainScreenAppear - главная страница 
-    B: OffersScreenAppear - переход в каталог
-    C: CartScreenAppear - корзина
-    D: PaymentScreenSuccessful - оплата
-    F: Tutorial - руководство
+     А: MainScreenAppear - главная страница 
+     B: OffersScreenAppear - переход в каталог
+     C: CartScreenAppear - корзина
+     D: PaymentScreenSuccessful - оплата
+     F: Tutorial - руководство
   События происходят в следующем порядке: A ---> B ---> C ---> D, или, A ---> F
   1. Все шаги выстраиваются в привычном для воронки виде. Пользователям не приходится совершать не логичных действий, чтобы добраться до шага D: PaymentScreenSuccessful(оплата).
   1. 47% пользователей (хоть раз совершивших действие)  доходят до шага D: PaymentScreenSuccessful(оплата) от общего числа пользователей.
